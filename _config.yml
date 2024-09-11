@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Po-An Lin / Site Title"
+title                    : "Po-An Lin / ML with Soft Matter"
 title_separator          : "-"
 name                     : &name "Po-An Lin"
 description              : &description "I work on combining molecular simulations with machine learning to address fundamental problems in self-assembly of nanoparticles, including inverse design problems."
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://popolin522.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "popolin522/popolin522.github.io/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
