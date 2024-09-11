@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I work on combining molecular simulations with machine learning to address fundamental problems in self-assembly of nanoparticles, including inverse design problems."
   location         : "US/Taiwan"
   employer         : "Duke University"
   uri              : # URL
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=hazcbZgAAAAJ&hl=en&authuser=2"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=2&user=hazcbZgAAAAJ"
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
